@@ -4,7 +4,6 @@ import About from "./About";
 import Skill from "./Skill";
 import Project from "./Project";
 import Contact from "./Contact";
-import logo from "../src/assets/img/logo.jpg";
 import Footer from "./Footer";
 import ProblemSolve from "./ProblemSolve";
 import Education from "./Education";
