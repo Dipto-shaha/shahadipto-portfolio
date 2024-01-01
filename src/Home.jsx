@@ -17,7 +17,7 @@ const Home = () => {
     <div className="lg:mx-20 mx-5">
       <div className="navbar pt-5">
         <div className="navbar-start">
-          <img src={logo} className="w-20 h-12 rounded-lg"></img>
+          <img src={"https://i.ibb.co/vDphwng/Screenshot-2024-01-02-012804.png"} className="w-20 h-12 rounded-lg"></img>
         </div>
         <div className="navbar-end ">
         <div className="dropdown dropdown-end">

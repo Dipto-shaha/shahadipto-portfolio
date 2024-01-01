@@ -89,7 +89,7 @@ const Contact = () => {
           <input
             type="hidden"
             name="_next"
-            value="https://deluxe-baklava-7f1489.netlify.app"
+            value="https://diptoshaha.netlify.app"
           ></input>
           <button>Submit</button>
         </form>
