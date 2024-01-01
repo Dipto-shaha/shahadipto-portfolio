@@ -13,8 +13,8 @@ const Contact = () => {
   const handleSubmit = async (event) => {
     event.preventDefault();
     try {
-      event.target.submit();
       toast.success("Message Sent Successfully");
+      event.target.submit();
     } catch (error) {
       toast.error("An error occurred. Please try again.");
     }
