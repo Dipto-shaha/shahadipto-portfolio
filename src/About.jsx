@@ -6,12 +6,12 @@ const About = () => {
       <div className="text-xl mt-10 ml-5">
         <p className="text-2xl font-bold mt-5 text-[#00cf5d]">Hello! I am </p>
         <p className="lg:text-7xl text-5xl font-bold mt-1">Dipto Shaha</p>
-        <div className="flex lg:flex-row flex-col text-2xl font-bold my-5 text-[#00cf5d]">
-          <p className="flex  justify-center items-center">
-            <FaCircle className="mr-1" /> Aspiring Software Engineer{" "}
+        <div className="flex lg:flex-row flex-col  text-2xl font-bold my-5 text-[#00cf5d]">
+          <p className="flex  justify-start items-center">
+            <FaCircle className="mr-1" /> Aspiring Software Engineer
           </p>
-          <p className="ml-3 flex justify-center items-center">
-            <FaCircle className="mr-1" /> Full Stack Developer{" "}
+          <p className="lg:ml-3 flex justify-start items-center">
+            <FaCircle className="mr-1" /> Full Stack Developer
           </p>
         </div>
         <p></p>A computer science student and enthusiastic programmer with
